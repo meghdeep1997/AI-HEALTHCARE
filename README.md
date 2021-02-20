@@ -86,5 +86,6 @@ and Flask framework.
 3. flask run
 
 ## Project created by :
-* [Piyush Rane](https://www.linkedin.com/in/piyushrane/ "Piyush Rane")
 * [Meghdeep Sapre](https://www.linkedin.com/in/meghdeepsapre97/ "Meghdeep Sapre")
+* [Piyush Rane](https://www.linkedin.com/in/piyushrane/ "Piyush Rane")
+
