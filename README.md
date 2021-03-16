@@ -20,8 +20,8 @@
           
 ## Demo
  **AI-HEALTHCARE HOME PAGE**
-
-<img src="https://media.giphy.com/media/tkZEW9aTz1zoEluHti/giphy.gif" width="700" height="400">
+ 
+![](https://media.giphy.com/media/tkZEW9aTz1zoEluHti/giphy.gif)
 
 
 **WORKING**
