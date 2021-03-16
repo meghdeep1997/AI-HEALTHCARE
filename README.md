@@ -19,9 +19,10 @@
       <a name="For-execution-of-the-project"></a>
           
 ## Demo
- **HOME**
+ **AI-HEALTHCARE HOME PAGE**
 
-![](https://media.giphy.com/media/tkZEW9aTz1zoEluHti/giphy.gif)
+![](img src="https://media.giphy.com/media/tkZEW9aTz1zoEluHti/giphy.gif" width="700" height="400")
+
 
 **WORKING**
 
