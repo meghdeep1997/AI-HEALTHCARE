@@ -1,4 +1,4 @@
-# AI-HEALTHCARE
+<h1 align="center">AI-HEALTHCARE</h1>
 
 ## Table Of Content
    * [Demo](#Demo)
